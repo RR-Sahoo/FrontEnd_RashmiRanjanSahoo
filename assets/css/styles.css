@@ -101,12 +101,12 @@ h2 {
 .links .no-account{
     color: rgba(33,37,41,0.67);
     text-decoration: none;
-    margin-right: 210px;
+    margin-right: 130px;
 }
 .links .sign-up{
     color: rgb(0,0,0);
     text-decoration: none;
-    margin-right: 20px;
+    margin-right: 50px;
 }
 .carousel-container{
     background-image: linear-gradient(to top, #05c7fa, #64d0f6, #90d9f4, #b3e2f2, #d4eaf1);
